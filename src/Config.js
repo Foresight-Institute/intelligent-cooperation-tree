@@ -12,7 +12,7 @@ const Config = {
       color: '#9FC4FF',
     },
     {
-      title: 'Intelligent Cooperation Tech',
+      title: 'IC Tech',
       color: '#FFC6FE',
     },
     {
