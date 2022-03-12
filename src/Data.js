@@ -63,10 +63,46 @@ const Data = [
     ]
   },
   {
-    "title": "Natural language processing",
-    "type": "general-improvement",
+    "title": "Data",
+    "type": "core-technology",
+    "highlight": "false",
     "relations": [
       ""
+    ]
+  },
+  {
+    "title": "Algorithms",
+    "type": "core-technology",
+    "highlight": "false",
+    "relations": [
+      ""
+    ]
+  },
+  {
+    "title": "Infrastructure",
+    "type": "core-technology",
+    "highlight": "false",
+    "relations": [
+      ""
+    ]
+  },
+  {
+    "title": "Compute",
+    "type": "core-technology",
+    "highlight": "false",
+    "relations": [
+      ""
+    ]
+  },
+  {
+    "title": "Artificial General Intelligence",
+    "type": "general-improvement",
+    "highlight": "false",
+    "relations": [
+      "Algorithms",
+      "Data",
+      "Infrastructure",
+      "Compute"
     ]
   },
   {
@@ -157,9 +193,9 @@ const Data = [
   {
     "title": "Computational law",
     "type": "general-improvement",
+    "highlight": "false",
     "relations": [
-      "Distributed execution (smart contract)",
-      "Natural language processing"
+      "Distributed execution (smart contract)"
     ]
   }
 ];
