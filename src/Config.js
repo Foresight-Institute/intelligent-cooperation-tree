@@ -18,6 +18,10 @@ const Config = {
     {
       title: 'General Improvement',
       color: '#FDFFB6',
+    },
+    {
+      title: 'Risks',
+      color: '#FF0000',
     }
   ],
   axis_enabled: false,
